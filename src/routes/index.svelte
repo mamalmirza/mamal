@@ -86,7 +86,7 @@
             title: 'Camera Dolly',
             description: 'Designing a camera dolly with a hydraulic manipulator',
             time: '2020',
-            img: './projectImg/example-project.jpg'
+            img: './projectImg/sub-sea-saw.jpg'
         }
     ];
 </script>
@@ -105,5 +105,8 @@
 <ProjectView projectsToShow={projects} showMore='/projects'/>
 
 <Item itemToShow={honors} title="HONORS"/>
+
+<Item itemToShow={honors} title="mamals"/>
+
 
 

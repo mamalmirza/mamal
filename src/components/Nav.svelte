@@ -75,12 +75,12 @@
                 Mohammad Reza Mirzaei
             </span>
         </li>
-        <li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">EXPERINCE</a></li>
+        <!-- <li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">EXPERINCE</a></li> -->
         <li><a aria-current="{segment === 'projects' ? 'page' : undefined}" href="projects">Projects</a></li>
 
         <!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
              the blog data when we hover over the link or tap it on a touchscreen -->
-        <li><a rel=prefetch aria-current="{segment === 'blog' ? 'page' : undefined}" href="">CV</a></li>
+        <li><a target="__blank__" href="http://google.com">CV</a></li>
         <li class="btn-1">
             <a rel=prefetch aria-current="{segment === 'contact' ? 'page' : undefined}" href="contact">contact</a>
         </li>

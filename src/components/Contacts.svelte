@@ -25,7 +25,7 @@
                 <img src="./icons/Linkedin.svg" alt="Linkedin">
             </a>
             <a href="">
-                <img src="./icons/Telegram.png" alt="telegram">
+                <img src="./icons/Telegram.svg" alt="telegram">
             </a>
             <a href="">
                 <img src="./icons/email.svg" alt="email">
