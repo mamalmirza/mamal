@@ -106,7 +106,4 @@
 
 <Item itemToShow={honors} title="HONORS"/>
 
-<Item itemToShow={honors} title="mamals"/>
-
-
 

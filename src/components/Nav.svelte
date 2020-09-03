@@ -70,10 +70,12 @@
 <nav>
     <ul>
         <li class="home">
-            <img src="icons/home.svg" height="35" alt="Home Icon">
-            <span>
-                Mohammad Reza Mirzaei
-            </span>
+            <a href="/">
+                <img src="icons/home.svg" height="35" alt="Home Icon">
+                <span>
+                    Mohammad Reza Mirzaei
+                </span>
+            </a>
         </li>
         <!-- <li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">EXPERINCE</a></li> -->
         <li><a aria-current="{segment === 'projects' ? 'page' : undefined}" href="projects">Projects</a></li>
