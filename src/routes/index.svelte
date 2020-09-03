@@ -95,7 +95,7 @@
 </style>
 
 <svelte:head>
-    <title>Sapper project template</title>
+    <title>Mohmmad Reza Mirzaei</title>
 </svelte:head>
 
 <AboutMe/>
