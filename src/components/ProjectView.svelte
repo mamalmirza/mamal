@@ -16,7 +16,7 @@
     export let projectsToShow, showMore;
 </script>
 <div class="box-1">
-    <h1>Project</h1>
+    <h1>Projects</h1>
     {#each projectsToShow as project}
         <ProjectItem {...project}/>
     {/each}

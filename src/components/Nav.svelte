@@ -82,7 +82,7 @@
 
         <!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
              the blog data when we hover over the link or tap it on a touchscreen -->
-        <li><a target="__blank__" href="http://google.com">CV</a></li>
+        <li><a target="__blank__" href="https://drive.google.com/file/d/1ybIsX1nW57u5zk6FDsEj-ioRiwl4PgBt/view?usp=sharing">CV</a></li>
         <li class="btn-1">
             <a rel=prefetch aria-current="{segment === 'contact' ? 'page' : undefined}" href="contact">contact</a>
         </li>
