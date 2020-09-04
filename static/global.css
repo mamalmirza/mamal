@@ -114,7 +114,7 @@ code {
 :root {
 
     /* --------colors-------- */
-    --color-1: #101C1A;
+    --color-1: #244354;
     --color-2: #0E3C4B;
     --color-3: #3A6C7F;
     --color-4: #BCB6B5;
@@ -142,7 +142,7 @@ code {
     --box-shadow-1: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     --box-shadow-2: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 
-    --box-background: #0e7d9e80;
+    --box-background: rgba(85, 129, 150, 0.5);;
     /* ---------other-------- */
     --transition-time: 200ms;
 }
