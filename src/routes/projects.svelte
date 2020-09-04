@@ -31,8 +31,8 @@
             time: '2018',
             img: './projectImg/pillbox.jpg'
         },{
-            title: 'Self stabilizing spoon',
-            description: 'Desingining a spoon to control the hand vibration of demantia patients',
+            title: 'Self-stabilizing spoon',
+            description: 'Designing a spoon to control the hand vibration of dementia patients',
             time: '2018',
             img: './projectImg/spoon.jpg'
         },{

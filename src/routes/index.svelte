@@ -5,8 +5,8 @@
 
     const experience = [
         {
-            title: 'Reseach Assistant',
-            description: 'Dr. Najafi’s Reserch Group',
+            title: 'Research Assistant',
+            description: 'Dr. Esmaeil Najafi’s Research Group',
             time: 'Sep 2019 - Present ',
             location: 'K. N. Toosi University of Technology'
         },
@@ -17,19 +17,19 @@
             location: 'K. N. Toosi University of Technology'
         },
         {
-            title: 'Reseach Assistant',
-            description: 'Dr. Ravanidi’s Lab',
+            title: 'Research Assistant',
+            description: 'Dr. Mohammad Ravanidi’s Lab',
             time: 'Aug 2019 - May 2020 ',
             location: 'K. N. Toosi University of Technology'
         },
         {
             title: 'Teaching Assistant',
-            description: 'Engeneering Drawing',
+            description: 'Engineering Drawing',
             time: 'Jan 2019 - June 2019 ',
             location: 'K. N. Toosi University of Technology'
         }, 
         {
-            title: 'Reseach Assistant',
+            title: 'Research Assistant',
             description: 'KN2C Lab',
             time: 'Nov 2016 - Aug 2019 ',
             location: 'K. N. Toosi University of Technology'

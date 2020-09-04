@@ -90,17 +90,15 @@
         <div class="body">
             <div class="about">
                 <p>
-                    Hi. My name is MohammadReza Mirzaei. Recently, I graduted from K.N.Toosi University and I’m looking
-                    to
-                    continue my studies in the areas that I am intrested in.
-                    Previously, I was a mechanical engineering student at K.N. Toosi University of Technology in Iran.
-                    During my time in KNTU, I was privilaged to work in 3 research groups, under supervision of Prof.
-                    Hamid
-                    D. Taghirad, Dr. Ravandi, and Dr. Najafi.
+                    Hi. My name is Mohammad Reza Mirzaei. Recently, I graduated from K.N.Toosi University,
+                     and I’m looking to continue my studies in the areas that I am interested in. Previously, 
+                     I was a mechanical engineering student at K.N. Toosi University of Technology in Iran. 
+                     During my time in KNTU, I was privileged to work in 3 research groups, under the supervision of 
+                     Prof. Hamid D. Taghirad, Dr. Mohammad Ravandi, and Dr. Esmaeil Najafi.
                 </p>
                 <div class="row">
                     <div class="intrest">
-                        <h3>Intrests:</h3>
+                        <h3>Interests:</h3>
                         <ul>
                             {#each intrests as intrest}
                                 <li>{intrest}</li>
@@ -109,7 +107,7 @@
                     </div>
 
                     <div class="education">
-                        <h3>Educations:</h3>
+                        <h3>Education:</h3>
                         {#each education as ed }
                             <div>
                                 {ed.degree} in {ed.field}, {ed.time}
