@@ -21,13 +21,13 @@
     <h1>Contact Me</h1>
     <div class="center">
         <div class="box">
-            <a href="https://www.linkedin.com/in/mohammad-reza-mirzaei-a9a2b213b">
+            <a target="__blank__" href="https://www.linkedin.com/in/mohammad-reza-mirzaei-a9a2b213b">
                 <img src="./icons/Linkedin.svg" alt="Linkedin">
             </a>
-            <a href="https://t.me/mamal_mirza">
+            <a target="__blank__" href="https://t.me/mamal_mirza">
                 <img src="./icons/Telegram.svg" alt="telegram">
             </a>
-            <a href="mailto:Mirzaei.Mohammadreza1997@gmail.com">
+            <a target="__blank__" href="mailto:Mirzaei.Mohammadreza1997@gmail.com">
                 <img src="./icons/email.svg" alt="email">
             </a>
         </div>
